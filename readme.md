@@ -15,3 +15,6 @@ The Performance Monitor utilizes Babel to enable experimental JavaScript feature
 - Command-line interface powered by Blessed for interactive visualization of performance data.
 - Customizable options to control the monitoring behavior and visualization style.
 
+
+## Additional
+ - This project is created using the help of [Eric Wendel](https://github.com/ErickWendel) video. [Youtube Link](https://www.youtube.com/watch?v=CS03W_YSdJc&list=PLqFwRPueWb5fl_-rJ_6WdgCn9P87A7WNq&index=9)
